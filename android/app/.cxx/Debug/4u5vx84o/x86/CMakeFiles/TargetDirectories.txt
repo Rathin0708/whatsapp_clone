@@ -1,0 +1,2 @@
+/Users/rathin/StudioProjects/whatsapp_clone/android/app/.cxx/Debug/4u5vx84o/x86/CMakeFiles/edit_cache.dir
+/Users/rathin/StudioProjects/whatsapp_clone/android/app/.cxx/Debug/4u5vx84o/x86/CMakeFiles/rebuild_cache.dir
